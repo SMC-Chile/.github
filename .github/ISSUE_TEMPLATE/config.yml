@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Equipo SMC — Vanda
+    url: https://github.com/Vanda-Chile
+    about: Contacta al equipo interno si tu consulta no corresponde a un bug o feature.
